@@ -17,6 +17,7 @@ Familiarizing yourself with the metadata - What features/variables are included?
 
 The data includes users, businesses, reviews, tips, and checkins.
 
+```
 business
 {
     'type': 'business',
@@ -98,7 +99,7 @@ tip
     'date': (date, formatted like '2012-03-14'),
     'likes': (count),
 }
-
+```
 
 
 2. Where do the data come from?
