@@ -13,7 +13,7 @@ Familiarizing yourself with the metadata - What features/variables are included?
 
 ### Questions to consider
 
-1. What do the data look like?
+- What do the data look like?
 
 The data includes users, businesses, reviews, tips, and checkins.
 
@@ -102,15 +102,15 @@ tip
 ```
 
 
-2. Where do the data come from?
+- Where do the data come from?
 
 The data comes from Yelp.
 
 
-3. Can you think of any other data sources that might help you in this project?
+- Can you think of any other data sources that might help you in this project?
 
 I could scrape data from google searches of the user names, or the business names, for more business data, or images. 
 
-4. What are some common issues in the analysis of text data?
+- What are some common issues in the analysis of text data?
 
 Text data manually entered is always dirty and needs to be cleaned. Is is also hard to parse the meaning of text.
